@@ -12,15 +12,16 @@ export default props =>{
     return(
         <section id='about'>
         <div className="container">
-            <h3 className='white-color'>Who Am I?</h3>
+            <h3 className='white-color'>Who I Am</h3>
             <hr className='white-color'/>
             <p className='text-faded'>Versatile former Mathematics Professor who brings valuable experience in administrative roles, including a proven ability to work on multiple projects in lead and individual roles.  Strong analytical and problem-solving skills within business settings. Possesses uncompromising work ethic, time management, organization and prioritization qualities.</p>
             <div className='row'>
                 <img id="aboutImg" className='col s10 m6 l4 offset-s1 offset-m3 offset-l4 responsive-img' src={about} alt="About me"/>
             </div>
-            <div className="text-faded center-align"><em>"The World is ever changing and I'm excited to part of it!"</em></div>
+            <div className="text-faded center-align"><em>"Design is not just what it looks like and feels like. Design is how it works."</em> - Steve Jobs</div>
             <p className='text-faded'>
-            Analytical reasoning, Complex problem solving, Team leadership, Relationship building, Statistical Analysis, Superb verbal and written communication skills, Effective time management, Superior research skills, Excellent follow through and attention to detail, Quick learner.</p>
+            <h5 className='white-color'>Strengths</h5>
+            Analytical reasoning, Complex problem solving, Team leadership, Relationship building, Statistical Analysis, Superb verbal and written communication skills, Quick learner, Effective time management, Superior research skills, Excellent follow through and attention to detail. My new found passion in programming allows me to use these skills in this everchanging technological world.</p>
             <h4 className='white-color'>Background</h4>
             <hr className='white-color sub'/>
             <div className="row">
@@ -40,7 +41,7 @@ export default props =>{
             <img src={asu} alt="ASU" className='bgImg responsive-img'/>
             <img src={nau} alt="NAU" className='bgImg responsive-img'/>
             <div className="background-text text-faded">
-            My logical and analytical skills led me to earning my both my bachelors and master's degrees in <strong>Mathematics</strong>. My new found passion in programming allows me to use these skills in this everchanging technological world.
+            My logical and analytical skills led me to earning my both my bachelors and master's degrees in <strong>Mathematics</strong>. 
             </div>
         </div>
             </div>

@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import logo from '../assets/images/nav/logo.PNG';
 
 // import AliciaImg from '../assets/images/nav/aliciaFace.jpg';
 
@@ -95,8 +96,8 @@ export default class NavBar extends Component {
             navbar = (
                 <nav>
                     <div className="nav-wrapper container">
-                    <a className='nav-text-name'>Aliica Collins</a>
-                    <ul className="right hide-on-sm-and-down">
+                    <a className='nav-text-name'><i className = 'brand-logo left' src={logo} alt ='logo'></i>Aliica Collins</a>
+                        <ul className="right hide-on-sm-and-down">
                         <li><a className='nav-text' href="#work">Work</a></li>
                         <li><a className='nav-text' href="#about">About</a></li>
                         <li><a className='nav-text' href="#skills">Skills</a></li>
