@@ -27,7 +27,7 @@ export default [
         img: clicky,
         alt: 'Click',
         codeLink: "https://github.com/aliciacollins/clicky-game.git",
-        demoLink: "https://brucean52.github.io/memory-match-js/"
+        demoLink: "https://aliciacollins.github.io/clicky-game/"
     },
     {   
         name: 'Train Schedule',
