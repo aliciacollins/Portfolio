@@ -1,6 +1,6 @@
 import React from 'react';
 
-// import linkedinLogo from '../assets/images/footer/linkedin.jpg';
+import linkedinLogo from '../assets/images/footer/linkedin.jpg';
 import githubLogo from '../assets/images/footer/github.png';
 
 export default props =>{
@@ -20,9 +20,9 @@ export default props =>{
                 <div className="footer-links">
                     <a className="" target="_self" href="https://docs.google.com/document/d/1EiIdaGvLc65Hl_aZOB_TZqeHIT8xo3Xk9A1ZZQeB4g0/edit?usp=sharing"><i className="medium material-icons">description</i><br/>Resume</a>
                 </div>
-                {/* <div className="footer-links">
+                <div className="footer-links">
                     <a target="_blank" href="www.linkedin.com/in/alicia-collins-is-linked"><img id="linkedin-logo" src={linkedinLogo} alt="LinkedIn" /><br/>LinkedIn</a>
-                </div> */}
+                </div>
 
                 </div>
 
