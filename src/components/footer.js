@@ -21,7 +21,7 @@ export default props =>{
                     <a className="" target="_self" href="https://docs.google.com/document/d/1EiIdaGvLc65Hl_aZOB_TZqeHIT8xo3Xk9A1ZZQeB4g0/edit?usp=sharing"><i className="medium material-icons">description</i><br/>Resume</a>
                 </div>
                 <div className="footer-links">
-                    <a className="" target="_blank" href="https://www.linkedin.com/in/alicia-collins-is-linked"><img id="linkedin-logo" src={linkedinLogo} alt="LinkedIn" /><br/>LinkedIn</a>
+                    <a className="" target="_self" href="https://www.linkedin.com/in/alicia-collins-is-linked"><img id="linkedin-logo" src={linkedinLogo} alt="LinkedIn" /><br/>LinkedIn</a>
                 </div>
 
                 </div>
