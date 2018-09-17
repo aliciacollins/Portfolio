@@ -14,7 +14,7 @@ export default [
         demoLink: "https://intense-hollows-10193.herokuapp.com/"
     },
     {
-        name: 'How Much for Education',
+        name: 'Career Service',
         info: 'App to allow an educated choice before begining college.',
         img: graph,    
         alt: 'graph',
@@ -27,7 +27,7 @@ export default [
         img: clicky,
         alt: 'Click',
         codeLink: "https://github.com/aliciacollins/clicky-game.git",
-        demoLink: "https://aliciacollins.github.io/clicky-game/"
+        demoLink: "https://arcane-brook-48182.herokuapp.com/"
     },
     {   
         name: 'Train Schedule',
