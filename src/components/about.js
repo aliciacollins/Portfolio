@@ -28,13 +28,13 @@ export default props =>{
             <div className="col s12 m4">
                 <img src={uofa} alt="U of A" className='bgImg responsive-img'/>
             <div className="background-text text-faded">
-                Completing the University of Arizona's Trilogy <em>Full Stack Web Development Program </em>has laid the foundation for my new found passion this ever changing programming world.
+                Completing the University of Arizona's Trilogy <em>Full Stack Web Development Program </em>has laid the foundation for my new found passion in this ever changing programming world.
             </div>
         </div>
         <div className="col s12 m4">
             <img src={ntm} alt="ac" className='bgImg responsive-img'/>
             <div className="background-text text-faded">
-            Co-Wrote an online e-text for liberal arts mathematics college courses.	Participated in all stages of manuscript preparation and book production.
+            Co-authored an online e-text for liberal arts mathematics college courses.	Participated in all stages of manuscript preparation and book production.
             </div>
         </div>
         <div className="col s12 m4">
